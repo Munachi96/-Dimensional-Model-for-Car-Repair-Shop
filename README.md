@@ -1,5 +1,5 @@
 ## Dimensional Model for Car Repair Shop
-Introduction
+Introduction :
 This report presents a dimensional model for a car repair shop, designed to efficiently store and analyze data to provide valuable insights. The process includes identifying key data and designing fact and dimension tables using a star schema.
 
 ## Business Requirements
