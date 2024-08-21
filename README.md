@@ -48,4 +48,4 @@ The ER diagram illustrates the relationships between the fact and dimension tabl
 - Service Dimension : Assesses service types and financial contributions.<br>
 - Part Dimension : Tracks parts sales and inventory.<br>
 - Location Dimension : Evaluates geographic sales performance.<br>
-- Date Dimension : Identifies sales trends over time.<br> [FULL REPORT HERE ](https://ocs.google.com/document/d/1t2rxDYYZV364g7jhEfuiHsKRX-TLbA0coEEo8ZMtcKY/edit)
+- Date Dimension : Identifies sales trends over time.<br> [FULL REPORT HERE ](https://docs.google.com/document/d/1t2rxDYYZV364g7jhEfuiHsKRX-TLbA0coEEo8ZMtcKY/edit)
